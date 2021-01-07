@@ -15,7 +15,7 @@ A Mongo database with a Mongoose schema and handle routes with Express that allo
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Screenshots](#Screenshots)
-- [Licence](#Licence)
+- [License](#License)
 - [Contributors](#Contributors)
 - [GitHub Info](#GitHub) 
 
@@ -50,7 +50,7 @@ Once 'App listening on PORT: 3002' displays in your terminal, open your browser 
 ![Dashboard](https://github.com/suzygiv/Fitness-Tracker/blob/main/public/assets/Dashboard.PNG)
 
 
-## Licence
+## License
 ![License](https://img.shields.io/badge/License-mit-blue.svg "License Badge")
 
 [MIT License](http://opensource.org/licenses/mit-license.php)
