@@ -17,7 +17,7 @@ app.use(express.json());
 //use static files
 app.use(express.static("public"));
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/fittrack", 
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/immense-tundra-21564", 
 {
     useNewUrlParser: true, 
     useUnifiedTopology: true,
