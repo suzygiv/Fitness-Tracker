@@ -49,6 +49,7 @@ module.exports = function (app) {
             });
     })
 
-
+// Need to figure out aggregate function 
+// db.workout.aggregate
 
 }
