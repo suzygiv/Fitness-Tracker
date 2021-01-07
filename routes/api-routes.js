@@ -47,13 +47,6 @@ module.exports = function (app) {
             .catch(err => {
                 res.status(400).json(err);
             });
-
-            db.Workout.aggregate(
-                [
-                    {$match: {duration: {}} },
-                    {$group: {_id: {}, total: {$sum: "$duration"}} }
-                ]
-            )
     })
 
 }
