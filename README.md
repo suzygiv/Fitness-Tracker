@@ -37,13 +37,13 @@ Once 'App listening on PORT: 3002' displays in your terminal, open your browser 
 
 ![Fitness-Tracker-Main](https://github.com/suzygiv/Fitness-Tracker/blob/main/public/assets/Fitness-Tracker-Main.PNG)
 
-# Workout Type
+# Exercise Type
 
-![Workout-Type](https://github.com/suzygiv/Fitness-Tracker/blob/main/public/assets/Workout-Type.PNG)
+![Exercise-Type](https://github.com/suzygiv/Fitness-Tracker/blob/main/public/assets/Workout-Type.PNG)
 
-# Workout
+# Exercise
 
-![Workout](https://github.com/suzygiv/Fitness-Tracker/blob/main/public/assets/Workout.PNG)
+![Exercise](https://github.com/suzygiv/Fitness-Tracker/blob/main/public/assets/Workout.PNG)
 
 # Dashboard
 
