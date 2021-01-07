@@ -49,7 +49,11 @@ module.exports = function (app) {
             });
     })
 
-// Need to figure out aggregate function 
-// db.workout.aggregate
+    db.Workout.aggregate(
+        [
+            {$match: {duration: {}} },
+            {$group: {_id: {}, total: {$sum: "$duration"}} }
+        ]
+    )
 
 }
