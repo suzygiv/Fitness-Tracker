@@ -4,6 +4,7 @@
 
 ## Heroku 
 To view the Fitness-Tracker application, click here:
+https://cryptic-brushlands-95540.herokuapp.com/?id=5ff87bd1ab7257001702c139
 
 ## Description
 
