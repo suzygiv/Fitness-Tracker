@@ -48,6 +48,14 @@ module.exports = function (app) {
                 console.log(err)
                 res.status(400).json(err);
             });
+    
+            // db.Workout.aggregate( [
+
+            //         { $match : { exercises : { $duration: null} } },
+                    
+            //         { $group: { _id: null, count: { $sum: $duration } } }
+                    
+            //         ] );
     })
 
 }
